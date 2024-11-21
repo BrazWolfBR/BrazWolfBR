@@ -1,4 +1,4 @@
-## Hey there!/ Eai!
+## Hey there! / Eai!
 
 Me chame de Braz
 
