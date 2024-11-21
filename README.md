@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey there!/ Eai!
 
-<!--
-**BrazWolfBR/BrazWolfBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chame de Braz
 
-Here are some ideas to get you started:
+- Estou estundando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem do Java Script
+- Uso esse espaço para meus projetos, por enquanto, só tem alguns de iniciante!
+- Sou iniciante, não espere nada muito complicado, acabei de começar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------//---------------------------------------------
+
+Call me Braz
+
+- I am studying at [Alura](https://www.alura.com.br)
+
+- I am developing my skills in JavaScript
+
+- I use this space for my projects; for now, they are just beginner projects!
+
+- I'm a beginner, so don't expect anything too complicated; I just started!"
+
+![_](https://media.tenor.com/s1PTNnkaSQsAAAAi/js-java-script.gif)
